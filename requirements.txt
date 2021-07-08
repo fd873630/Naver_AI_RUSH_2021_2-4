@@ -1,0 +1,2 @@
+#nsml: registry.navercorp.com/gyuwankim/airush-gec:latest
+
