@@ -470,7 +470,6 @@ def bind_nsml(model, tokenizer=None, args=None):
         :return: list of corrected sentences
         '''
         return mix(model, tokenizer, test_data, 5, args)
-        
 
     import nsml
     nsml.bind(save, load, infer)
